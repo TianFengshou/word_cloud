@@ -14,7 +14,6 @@ is not over, you have to get the consent of the artist.
 
 * Stopwords: Can be opened for personal development  or commercial purposes, no signature required.  authorized by the author Tian Fengshou.
 
-
 Source: Shandong University of Science and Technology, Software Alliance Laboratory, Tian Fengshou, 2017 Chinese stop words.
 
 Author's GitHub: https://github.com/TianFengshou.
